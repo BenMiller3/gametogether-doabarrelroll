@@ -1,6 +1,6 @@
 # Game Together
 ## Created by: Do A Barrel Roll
-
+![Do a Barrel Roll Logo](https://github.com/BenMiller3/gametogether-doabarrelroll/blob/master/dabr_logo.png "Do A Barrel Roll")
 ## Mission
 The purpose of Game Together is to provide opportunities for physically manifesting our mission and themes of inclusion, belonging, community, and friendship. This programme’s objective is, at a fundamental level, to bring gamers together.
 
