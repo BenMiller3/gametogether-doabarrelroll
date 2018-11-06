@@ -8,6 +8,6 @@ The purpose of Game Together is to provide opportunities for physically manifest
 This project is currently under construction.
 
 ## Contact
-Check us out on the web: doabarrelroll.ca
-Follow us on Twitter: https://twitter.com/doabarrelrollca
+Check us out on the web: doabarrelroll.ca<br>
+Follow us on Twitter: https://twitter.com/doabarrelrollca<br>
 Follow us on Facebook: https://www.facebook.com/doabarrelrollca/
